@@ -1,12 +1,12 @@
 >   E aí, tranquilo?    :v:
 
->   A área de "Dados" tem me interessado ultimamente, e por isso estou aprendendo sobre "Python", "SQL" e "R"...    :chart_with_upwards_trend:
+>   A área de "Dados" tem me interessado ultimamente, e por isso estou aprendendo sobre "Python", "SQL" e "R"...    :bar_chart:
 
 >   Gosto bastante de "Web", tanto "Frontend" quanto "Backend".   :heavy_check_mark:
 
 >   Aaa... e fã de Linux! :penguin:
 
->   Sou aquele cara que quer saber de tudo, e por isso tenho que me "policiar"... sacomé né? :sweat_smile:
+>   Sou aquele cara que quer saber de tudo ... sacomé né? :sweat_smile:
 
 
 
