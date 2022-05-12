@@ -1,10 +1,10 @@
 >   E aí, tranquilo?    :v:
 
->   Comecei minha jornada aprendendo sobre "Front End". :man_technologist:
+>   Comecei minha jornada aprendendo sobre **Front End**. :man_technologist:
 
->   Mas, estou interessado na área de "Dados", e por isso estou aprendendo sobre "R", "SQL" e "Python". :male_detective:
+>   Mas, estou interessado na área de "**Dados**", e por isso estou aprendendo sobre **R**, **SQL** e **Python**. :male_detective:
 
->   Aaa... e sou fã de Linux! :penguin:
+>   Aaa... e sou fã de **Linux**! :penguin:
 
 
 
