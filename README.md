@@ -2,7 +2,7 @@
 
 >   Comecei minha jornada aprendendo sobre "Front End". :man_technologist:
 
->   Mas, ultimamente a área de "Dados" tem me interessado, e por isso estou aprendendo sobre "R", "SQL" e "Python". :male_detective:
+>   Mas, estou interessado na área de "Dados", e por isso estou aprendendo sobre "R", "SQL" e "Python". :male_detective:
 
 >   Aaa... e sou fã de Linux! :penguin:
 
