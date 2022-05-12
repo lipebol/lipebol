@@ -1,8 +1,8 @@
 >   E aí, tranquilo?    :v:
 
->   Comecei aprendendo sobre "FrontEnd". Experimentei também um pouco de "BackEnd".
+>   Comecei minha jornada aprendendo sobre "Front End". :man_technologist:
 
->   Mas, ultimamente a área de "Dados" tem me interessado, e por isso estou aprendendo sobre "R", "SQL" e "Python"...    :bar_chart:
+>   Mas, ultimamente a área de "Dados" tem me interessado, e por isso estou aprendendo sobre "R", "SQL" e "Python". :male_detective:
 
 >   Aaa... e sou fã de Linux! :penguin:
 
