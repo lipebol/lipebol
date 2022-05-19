@@ -2,7 +2,7 @@
 
 >   Comecei minha jornada aprendendo sobre **Front End**. :man_technologist:
 
->   Mas, estou interessado na área de "**Dados**", e por isso estou aprendendo sobre **R**, **SQL** e **Python**. :male_detective:
+>   Atualmente estou estudando e interessado pela área de "**Dados**", e por isso estou aprendendo sobre **R**, **SQL** e **Python**. :male_detective:
 
 >   Aaa... e sou fã de **Linux**! :penguin:
 
