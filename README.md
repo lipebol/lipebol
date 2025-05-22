@@ -6,7 +6,7 @@ def __repr__(self):
           My(
               name='José Felipe',
               age='Millennials',
-              about='...data intern more focused on data engineering interested in data connectivity...data!',
+              about='...data intern studying about data connectivity...data!',
               status=😁
           )
         """
