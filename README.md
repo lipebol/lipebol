@@ -3,10 +3,9 @@
 
 def __repr__(self):
        return """
-          My(
-              name='José Felipe',
-              age='Millennials',
-              about='...data intern studying about data connectivity...data!',
+          lipebol(
+              nome='José Felipe',
+              about='...estagiario de dados estudando sobre conectividade dos dados... sobre dados!',
               status=😁
           )
         """
